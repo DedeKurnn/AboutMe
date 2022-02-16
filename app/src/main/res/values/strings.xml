@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Dede</string>
+    <string name="dede_kurniawan">Dede Kurniawan</string>
+    <string name="your_nickname">Your nickname?</string>
+    <string name="done">Done</string>
+    <string name="star_image">star image</string>
+    <string name="bio_text">
+        I am a very motivated 1st year student form Lampung University majoring in informatics engineering and have a passion in software engineering and graphic design.
+        \n\n
+
+        During my first semester, I\'ve been focused on getting good grades throughout my first semester resulted in me getting 3,93 on my final score. By joining serveral organization and courses, I\'ve been well equipped with communication, design, and management skills. Thus, it helps me a lot in running an event called \"Growth Mindset Webinar\" where I became the Creative Director and have a responsibility to manage and guide the graphic designer team from start to finish as well as supervising their creative process.
+        \n\n
+
+        I\'m passionate to learn about leadership and being part of organizations that make a positive impact on society. I\'m a lifelong learner who appreciates any suggestions that will push me to keep learning.
+    </string>
+    <string name="foto_dede">foto Dede</string>
+</resources>
