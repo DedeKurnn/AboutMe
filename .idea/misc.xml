@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dede/AndroidStudioProjects/AboutDede2/app/src/main/res/drawable/shadow.xml" value="0.25" />
         <entry key="..\:/Users/Dede/AndroidStudioProjects/AboutDede2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dede/AndroidStudioProjects/AboutDede2/app/src/main/res/layout/shadow.xml" value="0.12771739130434784" />
       </map>
     </option>
   </component>
